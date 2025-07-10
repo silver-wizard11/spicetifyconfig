@@ -141,29 +141,31 @@ There's a pre-config that I uploaded, if you want then you can use it.
           XxNYTMMTOE82fg4VfwMu (author info)
           main-nowPlayingView-credits (credits)
           main-nowPlayingView-queue (next in queue)
+          main-nowPlayingView-artistOnTour (tickets & tour)
+          main-nowPlayingView-merch (merch)
    
 
-2. Rounded Images: add rounded corners to the cover art
+3. Rounded Images: add rounded corners to the cover art
    
-3. Fix 'Episodes' icon: turn the episodes into monochrome icon
+4. Fix 'Episodes' icon: turn the episodes into monochrome icon
    Fix 'Liked' icon: turn liked songs into monochrome icon
    
-4. Smooth Reveal Playlist Gradient: fade-in effect when reveals the playlist gradient header
+5. Smooth Reveal Playlist Gradient: fade-in effect when reveals the playlist gradient header
    
-5. Oneko: add a slepping cat (oneko) into the playback bar
+6. Oneko: add a slepping cat (oneko) into the playback bar
     
-6. Remove Popular sections from homepage: remove lots of clutter stuff like Popular radio/albums/new releases, etc
+7. Remove Popular sections from homepage: remove lots of clutter stuff like Popular radio/albums/new releases, etc
     
-7. Hide recent searches: to hide search history from search bar
+8. Hide recent searches: to hide search history from search bar
     
-8. Smooth Progress/Volume Bar: enable the glide animation on playback/volume bar when changing
+9. Smooth Progress/Volume Bar: enable the glide animation on playback/volume bar when changing
     
-9. Hide Friend Activity Button: i don't have friend so i will hide it anyway which located on the top right corner
+10. Hide Friend Activity Button: i don't have friend so i will hide it anyway which located on the top right corner
     Hide What's New Button: if you want to do the same with the bell icon aswell
     
-10. Hide Mini Player Button: i don't find it useful so i hide it
+11. Hide Mini Player Button: i don't find it useful so i hide it
     
-11. Hide 'Scroll through previews': hide the previews icon of track
+12. Hide 'Scroll through previews': hide the previews icon of track
     
 
 --- Themes ---
