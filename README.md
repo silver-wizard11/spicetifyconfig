@@ -135,7 +135,7 @@ There's a pre-config that I uploaded, if you want then you can use it.
            display: none;
           }
 
-    in case you wish to hide any part that you don't like, replace with this one
+        in case you wish to hide any part that you don't like, replace with this one
           main-nowPlayingView-nowPlayingWidget (cover art)
           main-trackInfo-overlay (title of track/ author, this will hide in playback bar aswell)
           XxNYTMMTOE82fg4VfwMu (author info)
