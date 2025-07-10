@@ -82,7 +82,7 @@ All the downloads will lead to the original author/link.
 
     https://github.com/Vexcited/better-spotify-genres?tab=readme-ov-file
 
-14. trashbin-plus: stop playing songs or artists that you don't like automatically/automix mode based on original trashbin extension (@0-don)
+14. trashbin-plus: stop playing songs or artists that you don't like automatically/autoplay mode based on original trashbin extension (@0-don)
 
     https://github.com/0-don/trashbin-plus
 
