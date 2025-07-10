@@ -140,4 +140,4 @@ And there you have it. This keeps the original look (personal taste) and have a 
 <img width="1551" alt="Screenshot 2025-07-10 at 15 41 11" src="https://github.com/user-attachments/assets/1ee6693c-f7c9-41af-8d76-fbe4678614c5" />
 <img width="1551" alt="Screenshot 2025-07-10 at 15 42 59" src="https://github.com/user-attachments/assets/368462b9-d879-40ee-9afb-5a8c32548f03" />
 
-Enjoy your setup!
+Enjoy the setup! 🎊
