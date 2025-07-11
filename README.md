@@ -84,9 +84,9 @@ There's a pre-config file that I uploaded, if wish to use it then sure just go a
 
     https://github.com/Vexcited/better-spotify-genres?tab=readme-ov-file
 
-14. trashbin-plus: put a song or artist that you don't like in the bin and it won't play in autoplay mode anymore (@0-don)
+14. trashbin: put a song or artist that you don't like in the bin and it won't play again in autoplay mode (@spicetify)
 
-    https://github.com/0-don/trashbin-plus
+    https://github.com/spicetify/cli/blob/main/Extensions/trashbin.js
 
 15. vinylcover: add a little vinyl that rotate when playing (@AkselVdev)
 
