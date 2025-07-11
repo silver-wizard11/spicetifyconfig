@@ -145,28 +145,25 @@ There's a pre-config file that I uploaded, if wish to use it then sure just go a
           main-nowPlayingView-artistOnTour (tickets & tour)
           main-nowPlayingView-merch (merch)
    
-
-2. Rounded Images: add rounded corners to the cover art
-   
-3. Fix 'Episodes' icon: turn the episodes into monochrome icon
+2. Fix 'Episodes' icon: turn the episodes into monochrome icon
    
    Fix 'Liked' icon: turn liked songs into monochrome icon
    
-4. Smooth Reveal Playlist Gradient: fade-in effect when reveals the playlist gradient header
+3. Smooth Reveal Playlist Gradient: fade-in effect when reveals the playlist gradient header
    
-5. Oneko: add a slepping cat (oneko) into the playback bar
+4. Oneko: add a slepping cat (oneko) into the playback bar
     
-6. Remove Popular sections from homepage: remove lots of clutter stuff like Popular radio/albums/new releases, etc
+5. Remove Popular sections from homepage: remove lots of clutter stuff like Popular radio/albums/new releases, etc
     
-7. Smooth Progress/Volume Bar: enable the glide animation on playback/volume bar when changing
+6. Smooth Progress/Volume Bar: enable the glide animation on playback/volume bar when changing
     
-8. Hide Friend Activity Button: i don't have friend so i will hide it anyway which located on the top right corner
+7. Hide Friend Activity Button: i don't have friend so i will hide it anyway which located on the top right corner
     
     Hide What's New Button: if you want to do the same with the bell icon aswell
     
-9. Hide Mini Player Button: i don't find it useful so i hide it
+8. Hide Mini Player Button: i don't find it useful so i hide it
     
-10. Hide 'Scroll through previews': hide the previews icon of track
+9. Hide 'Scroll through previews': hide the previews icon of track
     
 
 --- Themes ---
