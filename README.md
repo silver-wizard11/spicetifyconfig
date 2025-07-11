@@ -80,7 +80,7 @@ There's a pre-config file that I uploaded, if wish to use it then sure just go a
     
     https://github.com/yodaluca23/spicetify-extensions/tree/main/SpicyTracker
 
-13. better-spotify-genres: show genres of a track in the playback bar (@Vexcited)
+13. better-spotify-genres: show genres of a track/ an artist in the playback bar/ profile page (@Vexcited)
 
     https://github.com/Vexcited/better-spotify-genres?tab=readme-ov-file
 
