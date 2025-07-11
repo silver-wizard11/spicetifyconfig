@@ -158,17 +158,15 @@ There's a pre-config file that I uploaded, if wish to use it then sure just go a
     
 6. Remove Popular sections from homepage: remove lots of clutter stuff like Popular radio/albums/new releases, etc
     
-7. Hide recent searches: to hide search history from search bar
+7. Smooth Progress/Volume Bar: enable the glide animation on playback/volume bar when changing
     
-8. Smooth Progress/Volume Bar: enable the glide animation on playback/volume bar when changing
-    
-9. Hide Friend Activity Button: i don't have friend so i will hide it anyway which located on the top right corner
+8. Hide Friend Activity Button: i don't have friend so i will hide it anyway which located on the top right corner
     
     Hide What's New Button: if you want to do the same with the bell icon aswell
     
-10. Hide Mini Player Button: i don't find it useful so i hide it
+9. Hide Mini Player Button: i don't find it useful so i hide it
     
-11. Hide 'Scroll through previews': hide the previews icon of track
+10. Hide 'Scroll through previews': hide the previews icon of track
     
 
 --- Themes ---
