@@ -1,8 +1,9 @@
 # spicetifyconfig
-Spicetify config/setup that I've tested and I'm using it now, collected from Google and the Marketplace itself.
+Spicetify config/ setup that I've already tested and am currently using it, collected from Google and the Marketplace itself.
 
-All the downloads will lead to the original author/ link.
-There's a pre-config that I uploaded, if you want then you can use it.
+/// All the downloads will lead to the original author/ link! ///
+
+There's a pre-config file that I uploaded, if wish to use it then sure just go ahead and download it.
 
 
 --- Extensions ---
@@ -15,7 +16,7 @@ There's a pre-config that I uploaded, if you want then you can use it.
 
     https://github.com/sanoojes/Spicetify-Extensions/tree/master/LibX-Reborn
 
-   
+
         -> Fix the Marketplace icon that having a gap using CSS (@silver-wizard11):
    
             .Kgjmt7IX5samBYUpbkBu {
@@ -135,9 +136,9 @@ There's a pre-config that I uploaded, if you want then you can use it.
            display: none;
           }
 
-        in case you wish to hide any part that you don't like, replace with this one
+        in case you wish to hide any part that you don't like, replace with these one
           main-nowPlayingView-nowPlayingWidget (cover art)
-          main-trackInfo-overlay (title of track/ author, this will hide in playback bar aswell)
+          main-trackInfo-overlay (title of track/ author + on the playback bar too)
           XxNYTMMTOE82fg4VfwMu (author info)
           main-nowPlayingView-credits (credits)
           main-nowPlayingView-queue (next in queue)
@@ -145,27 +146,29 @@ There's a pre-config that I uploaded, if you want then you can use it.
           main-nowPlayingView-merch (merch)
    
 
-3. Rounded Images: add rounded corners to the cover art
+2. Rounded Images: add rounded corners to the cover art
    
-4. Fix 'Episodes' icon: turn the episodes into monochrome icon
+3. Fix 'Episodes' icon: turn the episodes into monochrome icon
+   
    Fix 'Liked' icon: turn liked songs into monochrome icon
    
-5. Smooth Reveal Playlist Gradient: fade-in effect when reveals the playlist gradient header
+4. Smooth Reveal Playlist Gradient: fade-in effect when reveals the playlist gradient header
    
-6. Oneko: add a slepping cat (oneko) into the playback bar
+5. Oneko: add a slepping cat (oneko) into the playback bar
     
-7. Remove Popular sections from homepage: remove lots of clutter stuff like Popular radio/albums/new releases, etc
+6. Remove Popular sections from homepage: remove lots of clutter stuff like Popular radio/albums/new releases, etc
     
-8. Hide recent searches: to hide search history from search bar
+7. Hide recent searches: to hide search history from search bar
     
-9. Smooth Progress/Volume Bar: enable the glide animation on playback/volume bar when changing
+8. Smooth Progress/Volume Bar: enable the glide animation on playback/volume bar when changing
     
-10. Hide Friend Activity Button: i don't have friend so i will hide it anyway which located on the top right corner
+9. Hide Friend Activity Button: i don't have friend so i will hide it anyway which located on the top right corner
+    
     Hide What's New Button: if you want to do the same with the bell icon aswell
     
-11. Hide Mini Player Button: i don't find it useful so i hide it
+10. Hide Mini Player Button: i don't find it useful so i hide it
     
-12. Hide 'Scroll through previews': hide the previews icon of track
+11. Hide 'Scroll through previews': hide the previews icon of track
     
 
 --- Themes ---
@@ -180,9 +183,11 @@ Step 1:
 
 Step 2:
 Install a theme called "Colorful" (@sanoojes)
+
+
   ** I installed it via Marketplace, but you can do it in CLI as well **
 
-And there you have it. This will keep the original look (personal perference) and have a rounded corners at the playing bar as well.
+↳ And there you have it. This will keep the original look (personal perference) and have a rounded corners at the playing bar as well.
 
 <img width="1551" alt="Screenshot 2025-07-10 at 15 41 11" src="https://github.com/user-attachments/assets/1ee6693c-f7c9-41af-8d76-fbe4678614c5" />
 <img width="1551" alt="Screenshot 2025-07-10 at 15 42 59" src="https://github.com/user-attachments/assets/368462b9-d879-40ee-9afb-5a8c32548f03" />
